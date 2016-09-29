@@ -6,8 +6,7 @@
             "name": "Ervinne Sodusta",
             "email": "ervinnesodusta13@yahoo.com.ph"
         }
-    ],
-    "minimum-stability": "dev",
+    ],    
     "require": {
         "php": ">=5.4.0"
     },
