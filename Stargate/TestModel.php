@@ -15,4 +15,9 @@ namespace Stargate;
  */
 class TestModel {
     //Does nothing, just for testing
+    
+    public function __construct() {
+        $this->testProperty = "Test only";
+    }
+    
 }
