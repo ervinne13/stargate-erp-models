@@ -1,0 +1,19 @@
+{
+    "name": "stargate/erp-models",
+    "description": "Models of Stargate ERP",
+    "authors": [
+        {
+            "name": "Ervinne Sodusta",
+            "email": "ervinnesodusta13@yahoo.com.ph"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Stargate": "Stargate/"
+        }
+    }
+}
